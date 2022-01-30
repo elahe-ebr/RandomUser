@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RandomUser</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="name">Elahe Ebrahimi</string>
+    <string name="job">Android Developer</string>
+    <string name="birthday_title">Birthday</string>
+    <string name="birthday">1995/05/15</string>
+    <string name="address_title">Address</string>
+    <string name="address">Iran-Isfahan</string>
+    <string name="overview">OverView</string>
+    <string name="language_title">Language</string>
+    <string name="language">Java | Kotlin</string>
+    <string name="email_title">Email</string>
+    <string name="email">ebrahimi.elahe74@gmail.com</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="linkedin_link">linkedin.com/in/elahe-ebrahimi</string>
+    <string name="gender">female</string>
+    <string name="phone_title">Phone</string>
+    <string name="phone">09131111111</string>
+    <string name="location">Location</string>
+    <string name="error_message">خطای نامشخص</string>
+</resources>
